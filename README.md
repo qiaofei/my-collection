@@ -1,5 +1,6 @@
 ﻿# my-collection
-自己常用的到的库,欢迎大家给我推荐更好用的库
+自己常用的到的库或者一些很不错的文章,欢迎大家给我推荐更好用的库
+
 ui类:
 
 1,Edittext material design  :https://github.com/rengwuxian/MaterialEditText
@@ -11,3 +12,7 @@ ui类:
 https://github.com/feicien/android-auto-update
 2,常用工具类(string utils ,dataUtils之类)
 http://xybcoder.github.io/2016/06/11/Android%20开发常用工具类/
+
+其他
+Android studio 快捷键:
+http://seniorzhai.github.io/2015/02/05/AndroidStudio快捷键汇总/
