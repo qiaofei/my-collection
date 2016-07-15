@@ -9,3 +9,5 @@ ui类:
 
 1,在线升级
 https://github.com/feicien/android-auto-update
+2,常用工具类(string utils ,dataUtils之类)
+http://xybcoder.github.io/2016/06/11/Android%20开发常用工具类/
