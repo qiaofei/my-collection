@@ -1,23 +1,30 @@
 ﻿# my-collection
 自己常用的到的库或者一些很不错的文章,欢迎大家给我推荐更好用的库
 
-ui类:
+###ui类:
 
 1,Edittext material design  :https://github.com/rengwuxian/MaterialEditText
+
 2,很好看的贴在图片斜边的textview https://github.com/HeZaiJin/SlantedTextView
 
-工具类:
+###工具类:
 
 1,在线升级
 https://github.com/feicien/android-auto-update
+
 2,常用工具类(string utils ,dataUtils之类)
 http://xybcoder.github.io/2016/06/11/Android%20开发常用工具类/
 
-动画效果类:
-碎纸机动画
+###动画效果类:
+
+碎纸机动画:
 https://github.com/ldoublem/PaperShredder
 
-其他
+transtionEvery:
+https://github.com/andkulikov/Transitions-Everywhere
+http://www.jianshu.com/p/98f2ec280945
+
+###其他
 Android studio 快捷键:
 http://seniorzhai.github.io/2015/02/05/AndroidStudio快捷键汇总/
 
