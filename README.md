@@ -13,6 +13,10 @@ https://github.com/feicien/android-auto-update
 2,常用工具类(string utils ,dataUtils之类)
 http://xybcoder.github.io/2016/06/11/Android%20开发常用工具类/
 
+动画效果类:
+碎纸机动画
+https://github.com/ldoublem/PaperShredder
+
 其他
 Android studio 快捷键:
 http://seniorzhai.github.io/2015/02/05/AndroidStudio快捷键汇总/
