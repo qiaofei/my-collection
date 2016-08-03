@@ -3,30 +3,38 @@
 
 ###ui类:
 
-1,Edittext material design  :https://github.com/rengwuxian/MaterialEditText
+1. Edittext material design  :https://github.com/rengwuxian/MaterialEditText
 
-2,很好看的贴在图片斜边的textview https://github.com/HeZaiJin/SlantedTextView
+2. 很好看的贴在图片斜边的textview https://github.com/HeZaiJin/SlantedTextView
+
+3. fog view : 类似刮奖效果 : https://github.com/dynamitechetan/FogView_Library
+
+4. 可展开的Recycleview https://github.com/zaihuishou/ExpandableRecyclerview
 
 ###工具类:
 
-1,在线升级
+1. 在线升级
 https://github.com/feicien/android-auto-update
 
-2,常用工具类(string utils ,dataUtils之类)
+2. 常用工具类(string utils ,dataUtils之类)
 http://xybcoder.github.io/2016/06/11/Android%20开发常用工具类/
 
 ###动画效果类:
 
-碎纸机动画:
+1. 碎纸机动画:
 https://github.com/ldoublem/PaperShredder
 
-transtionEvery:
+2. transtionEvery:
 https://github.com/andkulikov/Transitions-Everywhere
 http://www.jianshu.com/p/98f2ec280945
 
 ###其他
-Android studio 快捷键:
+
+1. Android studio 快捷键:
 http://seniorzhai.github.io/2015/02/05/AndroidStudio快捷键汇总/
 
-gradle 介绍:
+2. gradle 介绍: 
 http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661971&idx=1&sn=3fb69537bbc5fbb14d152ba6381c3b83#rd
+
+3. 进程间通信:
+https://github.com/Xiaofei-it/Hermes
