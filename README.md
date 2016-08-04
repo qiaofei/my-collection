@@ -11,6 +11,8 @@
 
 4. 可展开的Recycleview https://github.com/zaihuishou/ExpandableRecyclerview
 
+5. 很炫的toast样式 :  https://github.com/yadav-rahul/TastyToast
+
 ###工具类:
 
 1. 在线升级
@@ -18,6 +20,7 @@ https://github.com/feicien/android-auto-update
 
 2. 常用工具类(string utils ,dataUtils之类)
 http://xybcoder.github.io/2016/06/11/Android%20开发常用工具类/
+https://github.com/Blankj/AndroidUtilCode
 
 ###动画效果类:
 
@@ -38,3 +41,5 @@ http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661971&idx=1&sn=3fb6953
 
 3. 进程间通信:
 https://github.com/Xiaofei-it/Hermes
+
+
