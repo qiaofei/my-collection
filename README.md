@@ -42,4 +42,6 @@ http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661971&idx=1&sn=3fb6953
 3. 进程间通信:
 https://github.com/Xiaofei-it/Hermes
 
-
+###博客收集
+1. AS快捷键 http://www.jianshu.com/p/bc8f6bfe12c6?
+2. AS调试教程 http://blog.csdn.net/u013132758/article/details/51992603
