@@ -31,6 +31,9 @@ https://github.com/ldoublem/PaperShredder
 https://github.com/andkulikov/Transitions-Everywhere
 http://www.jianshu.com/p/98f2ec280945
 
+3. 动画相关:
+https://github.com/daimajia/AndroidViewAnimations
+
 ###其他
 
 1. Android studio 快捷键:
