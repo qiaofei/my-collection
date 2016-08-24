@@ -13,6 +13,8 @@
 
 5. 很炫的toast样式 :  https://github.com/yadav-rahul/TastyToast
 
+6. MD风格的搜索bar : https://github.com/mancj/MaterialSearchBar
+
 ###工具类:
 
 1. 在线升级
