@@ -51,3 +51,4 @@ https://github.com/Xiaofei-it/Hermes
 1. AS快捷键 http://www.jianshu.com/p/bc8f6bfe12c6?
 2. AS调试教程 http://blog.csdn.net/u013132758/article/details/51992603
 3. 将代码上传到jcenter http://blog.lufficc.com/2016/08/05/一步一步教你上传自己的-Library-到-JCenter/
+4. 五个不错的开源项目 : http://www.jianshu.com/p/8180cc105f01
