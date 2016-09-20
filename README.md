@@ -55,3 +55,6 @@ https://github.com/Sunzxyong/Recovery
 2. AS调试教程 http://blog.csdn.net/u013132758/article/details/51992603
 3. 将代码上传到jcenter http://blog.lufficc.com/2016/08/05/一步一步教你上传自己的-Library-到-JCenter/
 4. 五个不错的开源项目 : http://www.jianshu.com/p/8180cc105f01
+5. 夜间模式切换 : http://blog.csdn.net/yanzhenjie1003/article/details/52464363
+6. 代码混淆 : http://frank-zhu.github.io/android/2014/11/21/android-proguard/
+7. 用RecycleView实现蜂窝六边形: http://www.jianshu.com/p/6c78a5a07db5
