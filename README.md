@@ -58,3 +58,6 @@ https://github.com/Sunzxyong/Recovery
 5. 夜间模式切换 : http://blog.csdn.net/yanzhenjie1003/article/details/52464363
 6. 代码混淆 : http://frank-zhu.github.io/android/2014/11/21/android-proguard/
 7. 用RecycleView实现蜂窝六边形: http://www.jianshu.com/p/6c78a5a07db5
+8. 关于单元测试 : http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577840&idx=2&sn=c3b52a72c34194c5e76007254613c644&scene=4#wechat_redirect
+9. 腾讯的热更新框架 : https://github.com/Tencent/tinker
+10. 关于混淆的详细介绍 : http://www.jianshu.com/p/7436a1a32891
