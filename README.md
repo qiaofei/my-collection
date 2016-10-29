@@ -15,6 +15,8 @@
 
 6. MD风格的搜索bar : https://github.com/mancj/MaterialSearchBar
 
+
+
 ###工具类:
 
 1. 在线升级
@@ -61,3 +63,7 @@ https://github.com/Sunzxyong/Recovery
 8. 关于单元测试 : http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577840&idx=2&sn=c3b52a72c34194c5e76007254613c644&scene=4#wechat_redirect
 9. 腾讯的热更新框架 : https://github.com/Tencent/tinker
 10. 关于混淆的详细介绍 : http://www.jianshu.com/p/7436a1a32891
+11. 可拖拽的viewgroup : http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058290&idx=1&sn=6bd69194a5aa23a6e574e8a3a83c1fcf&chksm=bd5657ce8a21ded8283933733e7e4644f486b63f8e70d6558a633809fa09fe818ca2322d3acf&scene=0#wechat_redirect
+12. Android状态栏技巧 http://blog.csdn.net/sinyu890807/article/details/51763825
+13. 我所努力学习到的三十多条宝贵经验 http://yifeng.studio/2016/10/27/android-develop-30-things-that-experience-made-me-learn-the-hard-way/
+14. glide库的使用 http://www.jianshu.com/p/299c8332aca6
